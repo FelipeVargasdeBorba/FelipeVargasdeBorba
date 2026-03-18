@@ -28,17 +28,6 @@ Passionate about coding.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeVargasdeBorba&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeVargasdeBorba&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-vargas-de-borba/)
